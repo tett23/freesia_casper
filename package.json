@@ -1,0 +1,22 @@
+{
+  "name": "freesia_casper",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-coffee-build": "~1.4.12",
+    "grunt-contrib": "~0.9.0",
+    "grunt-exec": "~0.4.5",
+    "casper": "~0.1.1",
+    "phantomjs": "~1.9.7-1",
+    "shelljs": "~0.2.6",
+    "jquery": "~2.1.0"
+  }
+}
